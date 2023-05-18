@@ -1,5 +1,6 @@
 // GO to problem bank - http://psd.bits-pilani.ac.in/Student/ViewActiveStationProblemBankData.aspx
 // execute this code in browser console 
+// copy paste this entire code in console --->  press enter 
 // developed by - Hardik Jain
 
 const Industry_domain = 'IT' ;
